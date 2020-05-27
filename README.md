@@ -1,4 +1,4 @@
-BITCOIN WALLET
+## BITCOIN and ETHEREUM WALLET
 Welcome to Bitcoin Wallet, a standalone Bitcoin payment app for your Android device!
 
 This project contains several sub-projects:
