@@ -123,8 +123,7 @@ There is a lot to do and we welcome contributers developers and testers who want
 ## Production 🗜️
 Storing every 20.000 Hot-Wallet need 15-20 times average reward for block minedfor ETH and 20% average for BTC.
 
-## Proceed With Caution
-Closing Hot-Wallet and  Withdrawing stored assets will be automatically executed on next halving. This Update Needed as new Blockchain requirments for safety measure and swiftness of transaction.
+
 
 #### Setting up docker 🎚️
 
@@ -140,6 +139,11 @@ docker swarm init
 # If you get the following error: `could not chose an IP address to advertise...`. You can do the following:
 docker swarm init --advertise-addr `curl -s ipecho.net/plain`
 ```
+
+
+## Proceed With Caution
+Closing Hot-Wallet and  Withdrawing stored assets will be automatically executed on next halving. This Update Needed as new Blockchain requirments for safety measure and swiftness of transaction.
+
 
 ### Deploying 🚀
 
