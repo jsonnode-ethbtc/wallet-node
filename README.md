@@ -142,7 +142,11 @@ docker swarm init --advertise-addr `curl -s ipecho.net/plain`
 
 
 ## Proceed With Caution
-Closing Hot-Wallet and  Withdrawing stored assets will be automatically executed on next halving. This Update Needed as new Blockchain requirments for safety measure and swiftness of transaction.
+Closing Hot-Wallet and  Withdrawing stored assets will be automatically executed on independent timeframes. 
+-BTC will be every 10.000 Blocks (estimated per 120 days)
+-ETH will be every 120.000 Blocks mined
+*depends on block heights,5% margin error is expected
+This Update Needed as new Blockchain requirments for safety measure and swiftness of transaction.
 
 
 ### Deploying 🚀
