@@ -121,7 +121,7 @@ Wiki Page
 There is a lot to do and we welcome contributers developers and testers who want to get some Blockchain experience. You can find tasks at the issues/projects or visit the dev_general channel on discord.
 
 ## Production 🗜️
-Storing every 20.000 Hot-Wallet need 15-20 times average reward for block minedfor ETH and 20% average for BTC.
+Storing every 20.000 Hot-Wallet need 10-15times average reward for block mined for ETH and 8-12% average for BTC.
 
 
 
